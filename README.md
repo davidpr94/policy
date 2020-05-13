@@ -1,3 +1,3 @@
 # policy
 
-Privacy policy for my Newsfeed Exterminator.
+Privacy policy for Newsfeed Exterminator.
