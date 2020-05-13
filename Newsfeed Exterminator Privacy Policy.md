@@ -1,3 +1,5 @@
+# Newsfeed Exterminator Privacy Policy
+
 ## Data collection
 Newsfeed Exterminator collects no data.
 
